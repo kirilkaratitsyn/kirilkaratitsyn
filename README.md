@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kiril
 
-<!--
-**kirilkaratitsyn/kirilkaratitsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Shopify developer in Germany. I build and fix online stores for brands and agencies.
 
-Here are some ideas to get you started:
+- Custom themes and sections the team can edit
+- International selling with Shopify Markets
+- B2B wholesale
+- Store speed
+- WooCommerce to Shopify migrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Deutsch, English, Українська
+
+Portfolio and case studies: [karatitsyn.com](https://www.karatitsyn.com/?utm_source=github&utm_medium=profile)
+
+LinkedIn: [Kiril Karatitsyn](https://www.linkedin.com/in/kirilkaratitsyn/)
